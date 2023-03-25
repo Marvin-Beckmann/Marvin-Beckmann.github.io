@@ -2,7 +2,7 @@
 layout: post
 title: Listen to the All Day Research Podcast - 21 Biometrische Systeme
 subtitle: 21 - Biometrische Systeme mit Dr.-Ing. Philipp Terhörst
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/podcast_episode_21.png
 thumbnail-img: /assets/img/podcast_episode_21.png
 share-img: /assets/img/podcast_background.jpg
 tags: [podcast, upb]
