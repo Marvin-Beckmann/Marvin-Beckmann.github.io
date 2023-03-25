@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Marvin Beckmann
 
 # Your name to show in the footer
 author: Marvin Beckmann
@@ -21,9 +21,6 @@ author: Marvin Beckmann
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -50,7 +47,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "marvin.beckmann00@aol.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: Marvin-Beckmann
 #  twitter: daattali
 #  patreon: DeanAttali
