@@ -1,9 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Marvin Beckmann. I have the following qualities:
+Hi there!
+I am currently doing my PhD in the Cybersecurity Engineering Section at [DTU Compute](https://www.compute.dtu.dk/), the Department of Applied Mathematics and Computer Science at the [Technical University of Denmark](https://www.dtu.dk/english).
+I got hooked by Cryptography in my 5th Bachelor term and have been 
+going with it ever since.
+During my Bachelor and Master at Paderborn University, I mainly looked at authentication mechanisms based lattices.
 
-- I'm quite humorous if you like bad jokes
+Currently I am mainly interested in privacy-preserving authentication mechanisms.
+Specifically those that are required for deniable authenticated key exchange.
+I find the contrast between authentication and privacy-preservation to be very interesting.
