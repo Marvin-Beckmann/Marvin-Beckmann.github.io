@@ -203,6 +203,15 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/cv.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -357,17 +366,8 @@ external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
+  exclude:
 
-exclude:
-  - _pages/blog.md
-  - _pages/books.md
-  - _pages/dropdown.md
-  - _pages/cv.md
-  - _pages/profiles.md
-  - _pages/repositories.md
-  - _posts/
-  - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
