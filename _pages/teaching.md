@@ -1,15 +1,34 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: An overview of my teaching experience so far
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Supervision
+- 1 Master Thesis supervision at DTU in 2025
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+---
 
-{% include courses.liquid %}
+## Teaching Assistance
+
+### DTU
+- Applied Cryptography (Spring 2026)
+- Cryptography Fundamentals (Fall 2025)
+- Introduction to Numerical Algorithms (Spring 2025)
+
+### Paderborn University
+- Foundations of Cryptography  (Summer 2024)
+- Introduction to Cryptography (Winter 2023)
+- Computability and Complexity (Winter 2022)
+- Data structures and Algorithms (Summer 2022)
+- Computability and Complexity (Winter 2021)
+- Modelling (Winter 2020)
+
+---
+
+## Miscellaneous
+- Certified E-Tutor, 2021 (https://www.uni-paderborn.de/en/university/stabsstelle-bildungsinnovationen-und-hochschuldidaktik/digital-teaching/e-tutors)
