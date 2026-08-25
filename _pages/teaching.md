@@ -18,6 +18,7 @@ calendar: false
 
 ### DTU
 
+- Post-Quantum Cryptography (Summer 2026)
 - Applied Cryptography (Spring 2026)
 - Cryptography Fundamentals (Fall 2025)
 - Introduction to Numerical Algorithms (Spring 2025)
