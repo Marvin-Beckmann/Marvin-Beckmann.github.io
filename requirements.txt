@@ -1,4 +1,5 @@
 nbconvert
 pyyaml
+bibtexparser<2 # scholarly is incompatible with bibtexparser 2.x
 rendercv[full]
 scholarly
