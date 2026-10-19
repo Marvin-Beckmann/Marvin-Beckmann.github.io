@@ -27,4 +27,4 @@ My research interests include, but are not limited to:
 - (Privacy-preserving) authentication, e.g., ring signatures, blind signatures and deniable authenticated key exchange.
 - The intersection of quantum information and post-quantum cryptography with impact to practical parameters.
 
-I am currently a PhD student supervised by [Christian Majenz](https://www.christianmajenz.info/about-me.html) and co-supervised by [Carsten Baum](https://carstenbaum.com/) at [DTU](https://orbit.dtu.dk/en/persons/marvin-beckmann/). I completed my Computer Science Bachelor's and Master's degree at Paderborn University under the supervision of [Johannes Blömer](https://www.uni-paderborn.de/en/person/23) working on lattice-based authentication.
+I am currently a PhD student supervised by [Christian Majenz](https://www.christianmajenz.info/about-me.html). I completed my Computer Science Bachelor's and Master's degree at Paderborn University under the supervision of [Johannes Blömer](https://www.uni-paderborn.de/en/person/23) working on lattice-based authentication.
