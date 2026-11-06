@@ -1,17 +1,17 @@
 metadata:
-  last_updated: '2026-10-19'
+  last_updated: '2026-11-06'
 papers:
   _Wjx1T0AAAAJ:9yKSN-GCB0IC:
-    citations: 0
+    citations: 1
     title: edaBits in the Exponent (edaBitE) and Issuer-Hiding Blind Signatures from ML-DSA and VOLE-in-the-Head
     year: '2026'
   _Wjx1T0AAAAJ:d1gkVwhDpl0C:
-    citations: 5
+    citations: 6
     title: Concretely Efficient Blind Signatures Based on VOLE-in-the-Head Proofs and the MAYO Trapdoor.
     year: '2026'
   _Wjx1T0AAAAJ:u-x6o8ySG0sC:
-    citations: 0
-    title: "qFALL\u2013Rapid Prototyping of Lattice-based Cryptography"
+    citations: 1
+    title: "qFALL\u2013rapid prototyping of lattice-based cryptography"
     year: '2026'
   _Wjx1T0AAAAJ:u5HHmVD_uO8C:
     citations: 3
